@@ -1,0 +1,11 @@
+@media (max-width:1000px)
+{
+    .body-row-part
+    {
+        flex-direction: column;
+    }
+  .discription-part{
+    background-color: aqua;
+    width:100%;
+  }
+}
